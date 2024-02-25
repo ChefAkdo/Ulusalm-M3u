@@ -1,0 +1,157 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="TRT1 HD" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1280px-TRT_1_logo_%282021-%29.svg.png", TRT 1 HD/UHD
+#EXTGRP:ULUSAL
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF: -1 tvg-id="ATV HD" tvg-name="ATV HD" tvg-logo="https://www.dsmart.com.tr/epg/images/360x310/59f19761cfef0b221f7da844", ATV HD*
+#EXTGRP:ULUSAL
+https://canlitvulusal.xyz/live/atv/index.m3u8
+#EXTINF: -1 tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png", KANAL D UHD
+#EXTGRP:ULUSAL
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF: -1 tvg-id="SHOW TV HD" tvg-name="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png", SHOW TV UHD
+#EXTGRP:ULUSAL
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF: -1 tvg-id="STAR TV HD" tvg-name="STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png", STAR TV HD*
+#EXTGRP:ULUSAL
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF: -1 tvg-id="FOX HD" tvg-name="NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/2560px-NOW_TV_%28Turkey%29_wordmark-red.svg.png", NOW HD/UHD
+#EXTGRP:ULUSAL
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF: -1 tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV HD" tvg-logo="https://seeklogo.com/images/B/beyaz-tv-logo-A2FCBFD73E-seeklogo.com.png", BEYAZ TV UHD
+#EXTGRP:ULUSAL
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF: -1 tvg-id="KANAL 7 HD" tvg-name="KANAL 7 HD" tvg-logo="https://epgx.site/p/kanal-7-hd-tr.png", KANAL 7 UHD
+#EXTGRP:ULUSAL
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF: -1 tvg-id="TEVE2 HD" tvg-name="Teve2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png", TEVE2 UHD
+#EXTGRP:ULUSAL
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF: -1 tvg-id="TV8 HD" tvg-name="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", TV8 UHD
+#EXTGRP:ULUSAL
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF: -1 tvg-id="TV8,5 HD" tvg-name="TV8.5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png", TV8.5 UHD
+#EXTGRP:ULUSAL
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF: -1 tvg-id="A2 HD" tvg-name="A2 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094671811.png", A2 HD*
+#EXTGRP:ULUSAL
+https://canlitvulusal.xyz/live/a2tv/index.m3u8
+#EXTINF: -1 tvg-id="360 HD" tvg-name="360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png", 360 HD/UHD
+#EXTGRP:ULUSAL
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#EXTINF: -1 tvg-id="TRT HABER HD" tvg-name="TRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TRT_Haber_logo_%282013-2020%29.svg/2560px-TRT_Haber_logo_%282013-2020%29.svg.png", TRT HABER HD/UHD
+#EXTGRP:HABER
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+#EXTINF: -1 tvg-id="ÜLKE TV HD" tvg-name="ÜLKE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/1200px-%C3%9Clke_TV_logo.svg.png", ÜLKE TV HD
+#EXTGRP:HABER
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+#EXTINF: -1 tvg-id="HABERTÜRK HD" tvg-name="HABERTÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png", HABERTÜRK HD/UHD
+#EXTGRP:HABER
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF: -1 tvg-id="A HABER HD" tvg-name="A HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png", A HABER HD*
+#EXTGRP:HABER
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF: -1 tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/2560px-CNN_T%C3%BCrk_logo.svg.png", CNN TÜRK HD*
+#EXTGRP:HABER
+https://canlitvulusal.xyz/live/cnnturk/index.m3u8
+#EXTINF: -1 tvg-id="NTV HD" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png", NTV HD*
+#EXTGRP:HABER
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF: -1 tvg-id="24 HD" tvg-name="24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png", 24 HD
+#EXTGRP:HABER
+https://kanal24dvr.blutv.com/blutv_kanal24_dvr/live.m3u8
+#EXTINF: -1 tvg-id="HALK TV" tvg-name="HALK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png", HALK TV HD/UHD
+#EXTGRP:HABER
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF: -1 tvg-id="SÖZCÜ TV" tvg-name="SÖZCÜ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png", SZC TV HD
+#EXTGRP:HABER
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+#EXTINF: -1 tvg-id="TRT 3" tvg-name="TBMM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png", TBMM TV HD*
+#EXTGRP:HABER
+https://canlitvulusal.xyz/live/meclistv/index.m3u8
+#EXTINF: -1 tvg-id="HABER GLOBAL HD" tvg-name="HABER GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png", HABER GLOBAL HD
+#EXTGRP:HABER
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#EXTINF: -1 tvg-id="TV100" tvg-name="TV100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png", TV100 HD/UHD
+#EXTGRP:HABER
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF: -1 tvg-id="KRT TV" tvg-name="KRT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png", KRT HD/UHD
+#EXTGRP:HABER
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF: -1 tvg-id="TGRT HABER HD" tvg-name="TGRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png", TGRT HABER HD
+#EXTGRP:HABER
+https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6306993/1097250146.png", beIN SPORTS 1 HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/idmantv/index.m3u8
+#EXTINF: -1 tvg-id="TRT SPOR HD" tvg-name="TRT SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png", TRT SPOR HD
+#EXTGRP:SPOR
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
+#EXTINF: -1 tvg-id="BeinSportsHaber.tr" tvg-name="BeIN SPORTS HABER HD" tvg-logo="https://contentlibrary.digiturk.com.tr/News/2348/Image/bein-sports-haber-hb_nis2019_2.png", BeIN SPORTS HABER HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/beinsportshaber/index.m3u8
+#EXTINF: -1 tvg-id="TivibuSpor.tr" tvg-name="TİVİBU SPOR HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094692827.png", TİVİBU SPOR HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+#EXTINF: -1 tvg-id="A SPOR HD" tvg-name="A SPOR HD*" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094696294.png", A SPOR HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/aspor/index.m3u8
+#EXTINF: -1 tvg-id="TRT SPOR YILDIZ" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1200px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png", TRT SPOR YILDIZ HD
+#EXTGRP:SPOR
+https://trtsporyildizdvr.blutv.com/blutv_trtsporyildiz_dvr/live.m3u8
+#EXTINF: -1 tvg-id="FB TV" tvg-name="FB TV HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094692828.png", FB TV HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/fbtv/index.m3u8
+#EXTINF: -1 tvg-id="Gstv.tr" tvg-name="GS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png", GS TV HD*
+#EXTGRP:SPOR
+https://canlitvulusal.xyz/live/gstv/index.m3u8
+#EXTINF: -1 tvg-id="SPORTS TV HD" tvg-name="SPORTS TV" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png", SPORTS TV
+#EXTGRP:SPOR
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
+#EXTINF: -1 tvg-id="TRT BELGESEL HD" tvg-name="TRT BELGESEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png", TRT BELGESEL HD
+#EXTGRP:BELGESEL
+https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
+#EXTINF: -1 tvg-id="DMAX HD" tvg-name="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png", DMAX HD
+#EXTGRP:BELGESEL
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
+#EXTINF: -1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC HD/UHD
+#EXTGRP:BELGESEL
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF: -1 tvg-id="TGRT HABER HD" tvg-name="TGRT BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/1200px-TGRT_Belgesel_logo.png", TGRT BELGESEL*
+#EXTGRP:BELGESEL
+https://canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
+#EXTINF: -1 tvg-id="TRT ÇOCUK HD" tvg-name="TRT ÇOCUK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/1280px-TRT_%C3%87ocuk_logo_%282021%29.svg.png", TRT ÇOCUK HD
+#EXTGRP:ÇOCUK
+https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
+#EXTINF: -1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/1280px-Cartoon_Network_logo_%282004-2010%29.svg.png", CARTOON NETWORK*
+#EXTGRP:ÇOCUK
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTINF: -1 tvg-id="TRT MÜZİK" tvg-name="TRT MÜZİK HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6307007/1094696295.png", TRT MÜZİK HD
+#EXTGRP:MÜZİK
+https://trtmuzikdvr.blutv.com/blutv_trtmuzik_dvr/live.m3u8
+#EXTINF: -1 tvg-id="NUMBER1 TV HD" tvg-name="NR1 TV HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094697303.png", NR1 TV HD*
+#EXTGRP:MÜZİK
+https://canlitvulusal.xyz/live/numberone/index.m3u8
+#EXTINF: -1 tvg-id="NUMBER1 TURK HD" tvg-name="NR1 TÜRK HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094698238.png", NR1 TÜRK HD*
+#EXTGRP:MÜZİK
+https://canlitvulusal.xyz/live/noturk/index.m3u8
+#EXTINF: -1 tvg-id="POWER TV HD" tvg-name="POWER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", POWER TV HD
+#EXTGRP:MÜZİK
+https://powerhd.blutv.com/blutv_powerhd/smil:blutv_powerhd.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="POWER TURK HD" tvg-name="POWER TÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png", POWER TÜRK HD
+#EXTGRP:MÜZİK
+https://pull1-poc.blutv.com/live/375SDYUX/index.m3u8
+#EXTINF: -1 tvg-id="Tatlısestv.tr" tvg-name="TATLISES TV" tvg-logo="https://tv.donmaztv.com/tatlises-tv.png", TATLISES TV*
+#EXTGRP:MÜZİK
+https://canlitvulusal.xyz/live/tatlisestv/index.m3u8
+#EXTINF: -1 tvg-id="Atvaz.tr" tvg-name="ATV AZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png", ATV AZ HD*
+#EXTGRP:AZERBAYCAN
+https://canlitvulusal.xyz/live/atvaz/index.m3u8
+#EXTINF: -1 tvg-id="Aztv.tr" tvg-name="AZ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Az%C9%99rbaycan_Televiziya_logo.png", AZ TV HD*
+#EXTGRP:AZERBAYCAN
+https://canlitvulusal.xyz/live/aztv/index.m3u8
+#EXTINF: -1 tvg-id="Medeniyettv.tr" tvg-name="MEDENİYET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png", MEDENİYET TV HD*
+#EXTGRP:AZERBAYCAN
+https://canlitvulusal.xyz/live/medeniyyettv/index.m3u8
+#EXTINF: -1 tvg-id="Bakutv.tr" tvg-name="BAKÜ TV HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4257d7f0-cf39-11ee-b5d4-6156e49edcc3/6282136/1094709213.png", BAKÜ TV HD*
+#EXTGRP:AZERBAYCAN
+https://canlitvulusal.xyz/live/bakutv/index.m3u8
